@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/lakhan5555/Cryptocurrency-Tracker/static/css/main.5fcc9609.chunk.css",
-    "main.js": "/lakhan5555/Cryptocurrency-Tracker/static/js/main.f851e9d2.chunk.js",
-    "main.js.map": "/lakhan5555/Cryptocurrency-Tracker/static/js/main.f851e9d2.chunk.js.map",
-    "runtime-main.js": "/lakhan5555/Cryptocurrency-Tracker/static/js/runtime-main.c3cbdbe4.js",
-    "runtime-main.js.map": "/lakhan5555/Cryptocurrency-Tracker/static/js/runtime-main.c3cbdbe4.js.map",
-    "static/js/2.2ba7f12f.chunk.js": "/lakhan5555/Cryptocurrency-Tracker/static/js/2.2ba7f12f.chunk.js",
-    "static/js/2.2ba7f12f.chunk.js.map": "/lakhan5555/Cryptocurrency-Tracker/static/js/2.2ba7f12f.chunk.js.map",
-    "index.html": "/lakhan5555/Cryptocurrency-Tracker/index.html",
-    "static/css/main.5fcc9609.chunk.css.map": "/lakhan5555/Cryptocurrency-Tracker/static/css/main.5fcc9609.chunk.css.map",
-    "static/js/2.2ba7f12f.chunk.js.LICENSE.txt": "/lakhan5555/Cryptocurrency-Tracker/static/js/2.2ba7f12f.chunk.js.LICENSE.txt"
+    "main.css": "/lakhan5555/cryptocurrency-tracker/static/css/main.5fcc9609.chunk.css",
+    "main.js": "/lakhan5555/cryptocurrency-tracker/static/js/main.32548607.chunk.js",
+    "main.js.map": "/lakhan5555/cryptocurrency-tracker/static/js/main.32548607.chunk.js.map",
+    "runtime-main.js": "/lakhan5555/cryptocurrency-tracker/static/js/runtime-main.b5e9ece0.js",
+    "runtime-main.js.map": "/lakhan5555/cryptocurrency-tracker/static/js/runtime-main.b5e9ece0.js.map",
+    "static/js/2.2ba7f12f.chunk.js": "/lakhan5555/cryptocurrency-tracker/static/js/2.2ba7f12f.chunk.js",
+    "static/js/2.2ba7f12f.chunk.js.map": "/lakhan5555/cryptocurrency-tracker/static/js/2.2ba7f12f.chunk.js.map",
+    "index.html": "/lakhan5555/cryptocurrency-tracker/index.html",
+    "static/css/main.5fcc9609.chunk.css.map": "/lakhan5555/cryptocurrency-tracker/static/css/main.5fcc9609.chunk.css.map",
+    "static/js/2.2ba7f12f.chunk.js.LICENSE.txt": "/lakhan5555/cryptocurrency-tracker/static/js/2.2ba7f12f.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.c3cbdbe4.js",
+    "static/js/runtime-main.b5e9ece0.js",
     "static/js/2.2ba7f12f.chunk.js",
     "static/css/main.5fcc9609.chunk.css",
-    "static/js/main.f851e9d2.chunk.js"
+    "static/js/main.32548607.chunk.js"
   ]
 }
